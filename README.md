@@ -60,5 +60,6 @@ The cell aggregate is initially outside the pipette. Then, thanks to the suction
 
 * K Guevorkian, MJ Colbert, M Durth, S Dufour, F Brochard-Wyart (2010) Aspiration of biological viscoelastic drops. Phys. Rev. Lett. 104, 218101.
 * V Le Maout, K Alessandri, B Gurchenkov, H Bertin, P Nassoy, G Sciumè (2020) Role of mechanical cues and hypoxia on the growth of tumor cells in strong and weak confinement: A dual in vitro–in silico approach. Sci. Adv. 6, eaaz7130.
+* G Sciumè, K Guevorkian, P Nassoy (2024) A bi-component model to assess the rheology of soft cellular aggregates probed using the micropipette aspiration technique. _under review_
 
 
