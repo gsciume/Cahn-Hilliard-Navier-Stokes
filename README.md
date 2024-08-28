@@ -10,4 +10,12 @@ This repository contains the codes used to generate the results presented in Lav
 ## Version
 The numerical simulations have been performed using the legacy FEniCS environnement which has been installed following the instructions available in the [FEniCS website](https://fenicsproject.org/download/)
 
+## Experiment
+xxx xxxxx xxxx xxxx
+
+## Geometry
+xxxxxx xx  xxx xxx
+
+## Mathematical model
+xxxxxx xx  xxx xxx
 
