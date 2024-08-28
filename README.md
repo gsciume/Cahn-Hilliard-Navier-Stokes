@@ -37,7 +37,7 @@ $$ \{{\bf{t}}_{VE}} + {\omega _c}{\lambda _{cm}}\left[ {\frac{{\partial {{\bf{t}
 
 ## Geometry and boundary conditions
 <p align="center">
-  <img src="Images/Fig2_github.png" width="600" />
+  <img src="Images/Fig2_github.png" width="700" />
 </p>
 To reduce the computational cost of the numerical simulations we have exploited the cylindrical symmetry of the problem (Figure 3.a). The boundary conditions for NS and CH equations are depicted in Figure 3.b. 
 
