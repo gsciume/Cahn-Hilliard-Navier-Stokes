@@ -5,7 +5,7 @@ _Abstract_. The micro-pipette aspiration technique is a classical experiment use
 
 ## Archive organization
 * _Experimental data_ contains the excel file with the data about the aspiration and retraction phase of the micropipette aspiration experiment;
-* _Images_ contains all the images reported in the reference article; 
+* _Images_ contains two of the images of the reference article; 
 * _Fenics_ contains the codes used for non-wetting and partially-wetting cases including the final set of parameters identified.
 
 ## Version
