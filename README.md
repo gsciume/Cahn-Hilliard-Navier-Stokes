@@ -32,7 +32,9 @@ $$ \\nabla  \cdot {\bf{v}} = 0\ $$
 
 $$ \\rho \frac{{\partial {\bf{v}}}}{{\partial t}} = \nabla  \cdot \left\( { - p{\bf{1}} + \mu \left( {\nabla {\bf{v}} + {{\left( {\nabla {\bf{v}}} \right)}^T}} \right) + {{\bf{t}}_{VE}}} \right\) + \phi \nabla {\omega _c}\ $$
 
-$$ \{{\bf{t}}_{VE}} + {\omega _c}{\lambda _{cm}}\left[ {\frac{{\partial {{\bf{t}}_{VE}}}}{{\partial t}} + {\bf{v}}\nabla {{\bf{t}}_{VE}} - {{\left( {\nabla {\bf{v}}} \right)}^{\rm{T}}}{{\bf{t}}_{VE}} - {{\bf{t}}_{VE}}\nabla {\bf{v}}} \right] = {\omega _c}{\mu _{cm}}\left[ {\nabla {\bf{v}} + {{\left( {\nabla {\bf{v}}} \right)}^{\rm{T}}}} \right] $$
+
+
+$$ {{\bf{t}}{VE}} + {\omega c}{\lambda {cm}}\left[ {\frac{{\partial {{\bf{t}}{VE}}}}{{\partial t}} + {\bf{v}}\nabla {{\bf{t}}{VE}} - {{\left( {\nabla {\bf{v}}} \right)}^{\rm{T}}}{{\bf{t}}{VE}} - {{\bf{t}}_{VE}}\nabla {\bf{v}}} \right] = {\omega _c}{\mu _{cm}}\left[ {\nabla {\bf{v}} + {{\left( {\nabla {\bf{v}}} \right)}^{\rm{T}}}} \right] $$
 
 
 ## Geometry and boundary conditions
